@@ -1,0 +1,49 @@
+body {
+	background-color: #E26D5C
+
+}
+h1 {font-size: 80px;
+color: #E5DCC5;
+text-align: center;
+font-family: 'Oswald', sans-serif;
+
+}
+
+h2	{font-size: 40px;
+color: #CCDAD1;
+font-family: 'Oswald', sans-serif;
+
+}
+p { font-size: 20px; 
+	color: #E5DCC5;
+	font-family: 'Poiret One', cursive;
+}
+
+#header {
+	background-image: url('images/48Std NK.jpg');
+	padding: 100px;
+	background-size: cover;
+	border-image-source: center;
+	text-align: center; 
+	margin-bottom: 20px;
+}
+
+.card {
+	text-align: center;
+}
+
+
+
+.card img {
+	border-radius: 4px;
+}
+
+#footer {
+	padding: 5px;
+	background-color: #7C6C77 ;
+	margin-bottom: 5px;
+	text-align: center; }
+#footer a{
+color: rgb (30, 30, 30); 
+font-size: 15px; }
+
